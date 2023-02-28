@@ -10,6 +10,6 @@ The examples swaggers presents take an enormous amount of work. Also,
 examples and corresponding mime types are not tied meaning it is not clear that both must
 match.
 
-![img.png](img.png)
+<img width="1451" alt="image" src="https://user-images.githubusercontent.com/148119/222008937-ffa13cd8-ed3b-4d8d-a03c-e120f1e76bd0.png">
 
 ...but it all works ok. There are likely refinements I'm not seeing.
